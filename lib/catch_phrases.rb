@@ -9,8 +9,8 @@ def toadstool
 end
 
 def link
-  status = 'It's Dangerous To Go Alone! Take This.'
-  puts status
+  rewind = 'It's Dangerous To Go Alone! Take This.'
+  puts rewind
 end
 
 def any_phrase
