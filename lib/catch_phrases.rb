@@ -8,12 +8,12 @@ def toadstool
   puts status
 end
 
-def toadstool
+def link
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts status
 end
 
-def toadstool
+def any_phrase
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts status
 end
