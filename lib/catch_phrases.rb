@@ -13,4 +13,3 @@ def link
   puts fast
 end
     
-  
