@@ -9,7 +9,7 @@ def toadstool
 end
 
 def link
-  fast = 'It's Dangerous To Go Alone! Take This.''
+  fast = 'It's Dangerous To Go Alone! Take This.'
   puts fast
 end
     
